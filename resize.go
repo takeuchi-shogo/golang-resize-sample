@@ -11,6 +11,10 @@ import (
 	"golang.org/x/image/draw"
 )
 
+/*
+ * 必要に応じてパッケージのコメントアウトを解除
+ */
+
 // func Resize() {
 // 	img, err := os.Open("./tmp/sample.jpg")
 // 	if err != nil {
